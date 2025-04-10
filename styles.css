@@ -14,3 +14,13 @@ body {
     margin: 0 auto;
     padding: 20px;
 }
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    margin-bottom: 15px;
+    color: #2c3e50;
+}
