@@ -16,3 +16,10 @@ Contact info (email + GitHub)
 Tech Used
 HTML
 CSS
+
+Contact
+📧 Email: noumanali.coding@gmail.com
+🧑‍💻 GitHub: github.com/coding-nouman
+
+Thanks for visiting!
+Developed by Nouman
