@@ -60,7 +60,21 @@ section {
 section h2 {
     font-size: 1.8rem;
     padding-bottom: 10px;
-    border-bottom: 2px solid #f1f1f1;
+    border-bottom: 2px solid #ffffff;
     margin-bottom: 20px;
 }
 
+.contact-info {
+    margin-top: 20px;
+}
+
+.contact-info p {
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: #000000;
+    font-size: 0.9rem;
+}
