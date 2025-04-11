@@ -11,8 +11,8 @@
 
 ## 📖 About  
 
-Hi, I'm **Nouman** – a web developer in training.  
-This simple website includes:
+Hi, I'm Nouman – a web developer currently learning HTML and CSS.  
+This project includes the following sections:
 
 - A header with my name and title  
 - An about section  
